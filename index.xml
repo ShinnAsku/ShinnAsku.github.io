@@ -8,7 +8,27 @@
         <language>zh-cn</language>
         <managingEditor>2449693631@qq.com (ShinnAsku)</managingEditor>
         <webMaster>2449693631@qq.com (ShinnAsku)</webMaster>
-        <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shinnasku.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Sep 2025 19:27:44 +0800</lastBuildDate><atom:link href="https://shinnasku.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Java多线程</title>
+        <link>https://shinnasku.github.io/post/java/thread/</link>
+        <pubDate>Sat, 13 Sep 2025 19:27:44 +0800</pubDate>
+        <author>2449693631@qq.com (ShinnAsku)</author>
+        <guid>https://shinnasku.github.io/post/java/thread/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Java基础知识</title>
+        <link>https://shinnasku.github.io/post/java/normal/</link>
+        <pubDate>Sat, 13 Sep 2025 19:27:44 +0800</pubDate>
+        <author>2449693631@qq.com (ShinnAsku)</author>
+        <guid>https://shinnasku.github.io/post/java/normal/</guid>
+        <description>&lt;h2 id=&#34;测试一下&#34;&gt;测试一下
+&lt;/h2&gt;&lt;p&gt;这是一个测试&lt;/p&gt;
+&lt;h2 id=&#34;第二页&#34;&gt;第二页？
+&lt;/h2&gt;&lt;p&gt;哈哈哈&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Python</title>
         <link>https://shinnasku.github.io/post/test-chinese/</link>
         <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>

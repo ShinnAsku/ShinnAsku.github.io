@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Emoji on ShinnAsku的技术博客</title>
-        <link>http://localhost:1313/tags/emoji/</link>
+        <link>https://shinnasku.github.io/tags/emoji/</link>
         <description>Recent content in Emoji on ShinnAsku的技术博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <managingEditor>2449693631@qq.com (ShinnAsku)</managingEditor>
         <webMaster>2449693631@qq.com (ShinnAsku)</webMaster>
-        <lastBuildDate>Sat, 13 Sep 2025 19:27:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Sep 2025 19:27:44 +0800</lastBuildDate><atom:link href="https://shinnasku.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Java多线程</title>
-        <link>http://localhost:1313/post/java/thread/</link>
+        <link>https://shinnasku.github.io/post/java/thread/</link>
         <pubDate>Sat, 13 Sep 2025 19:27:44 +0800</pubDate>
         <author>2449693631@qq.com (ShinnAsku)</author>
-        <guid>http://localhost:1313/post/java/thread/</guid>
+        <guid>https://shinnasku.github.io/post/java/thread/</guid>
         <description></description>
         </item>
         
