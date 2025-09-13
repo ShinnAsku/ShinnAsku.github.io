@@ -2,20 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on ShinnAsku的技术博客</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://shinnasku.github.io/tags/</link>
         <description>Recent content in Tags on ShinnAsku的技术博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <managingEditor>2449693631@qq.com (ShinnAsku)</managingEditor>
-        <webMaster>2449693631@qq.com (ShinnAsku)</webMaster>
-        <lastBuildDate>Sat, 13 Sep 2025 19:27:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Emoji</title>
-        <link>http://localhost:1313/tags/emoji/</link>
-        <pubDate>Sat, 13 Sep 2025 19:27:44 +0800</pubDate>
-        <author>2449693631@qq.com (ShinnAsku)</author>
-        <guid>http://localhost:1313/tags/emoji/</guid>
-        <description></description>
-        </item>
-        
+        <webMaster>2449693631@qq.com (ShinnAsku)</webMaster><atom:link href="https://shinnasku.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

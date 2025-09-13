@@ -2,44 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://shinnasku.github.io/</loc>
     <lastmod>2025-09-13T19:27:44+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://shinnasku.github.io/post/</loc>
     <lastmod>2025-09-13T19:27:44+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
-    <lastmod>2025-09-13T19:27:44+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/java/</loc>
-    <lastmod>2025-09-13T19:27:44+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/java/thread/</loc>
-    <lastmod>2025-09-13T19:27:44+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/java/normal/</loc>
-    <lastmod>2025-09-13T19:27:44+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-09-13T19:27:44+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-13T19:27:44+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/python/</loc>
+    <loc>https://shinnasku.github.io/categories/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test-chinese/</loc>
+    <loc>https://shinnasku.github.io/categories/python/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://shinnasku.github.io/post/test-chinese/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shinnasku.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/archives/</loc>
+    <loc>https://shinnasku.github.io/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>https://shinnasku.github.io/categories/java/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/search/</loc>
+    <loc>https://shinnasku.github.io/tags/</loc>
+  </url><url>
+    <loc>https://shinnasku.github.io/page/about/</loc>
+  </url><url>
+    <loc>https://shinnasku.github.io/page/search/</loc>
   </url>
 </urlset>
